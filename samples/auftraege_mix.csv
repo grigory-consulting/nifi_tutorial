@@ -1,0 +1,6 @@
+auftrag_id,kunde,betrag,prioritaet
+1001,Mueller GmbH,149.90,hoch
+1002,Schmidt AG,29.50,normal
+1003,Weber KG,210.00,hoch
+2001,Fischer SE,abc,hoch
+2002,Klein OHG,75.00,normal

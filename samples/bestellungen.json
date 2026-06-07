@@ -1,0 +1,5 @@
+[
+  {"bestell_id": 5001, "kundennr": "K-100", "betrag": 149.90},
+  {"bestell_id": 5002, "kundennr": "K-200", "betrag": 29.50},
+  {"bestell_id": 5003, "kundennr": "K-999", "betrag": 75.00}
+]
